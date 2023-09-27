@@ -1,0 +1,8 @@
+.nav-bar a {
+    margin-left: 15px;
+    color: white;
+}
+
+.active {
+    font-weight: 700;
+}
